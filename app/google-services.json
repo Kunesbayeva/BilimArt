@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551949610678",
+    "firebase_url": "https://biliimart.firebaseio.com",
+    "project_id": "biliimart",
+    "storage_bucket": "biliimart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551949610678:android:67917a1c0b462415",
+        "android_client_info": {
+          "package_name": "com.example.teacher_parent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551949610678-g4d31ukbphbj4h7fqo6k54eq1fadi019.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBntML82MbXkc5iTziPV2r1HmP-AJLQYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551949610678-g4d31ukbphbj4h7fqo6k54eq1fadi019.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
