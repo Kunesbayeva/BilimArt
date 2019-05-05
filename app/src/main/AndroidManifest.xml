@@ -18,6 +18,15 @@
         android:supportsRtl="true"
         android:theme="@style/MyAppTheme"
         android:resizeableActivity="true">
+
+        <service
+            android:name=".MyFirebaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
         <activity
             android:name=".ParentMain"
             android:label="@string/title_activity_parent_main"
